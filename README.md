@@ -126,7 +126,7 @@ During this project, I learned how to:
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/quiz-game.git
+git clone https://github.com/shuvam009/quiz-game.git
 ```
 
 Open the project
