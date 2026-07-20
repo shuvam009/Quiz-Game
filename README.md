@@ -8,7 +8,6 @@ A simple and interactive Quiz Game built using **HTML, CSS, and JavaScript**. Th
 
 ![Quiz Game Screenshot](./Screenshot.png)
 
-> Replace `screenshot.png` with your project screenshot after uploading it to the repository.
 
 ---
 
