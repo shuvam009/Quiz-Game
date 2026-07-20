@@ -6,7 +6,7 @@ A simple and interactive Quiz Game built using **HTML, CSS, and JavaScript**. Th
 
 ## 📸 Preview
 
-![Quiz Game Screenshot](./screenshot.png)
+![Quiz Game Screenshot](./Screenshot.png)
 
 > Replace `screenshot.png` with your project screenshot after uploading it to the repository.
 
