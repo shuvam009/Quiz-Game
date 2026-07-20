@@ -132,7 +132,7 @@ git clone https://github.com/shuvam009/Quiz-Game.git
 Open the project
 
 ```bash
-cd quiz-game
+cd Quiz-Game
 ```
 
 Run the project
