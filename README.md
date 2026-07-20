@@ -182,11 +182,9 @@ If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 **Shuvam**
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/shuvam009
+- LinkedIn: https://linkedin.com/in/shubhamoy-ghosh-640662367
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the **MIT License**.
