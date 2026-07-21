@@ -54,7 +54,7 @@ const quizQuestions = [
     question: "Best team in IPL?",
     answers: [
       { text: "MI", correct: false },
-      { text: "DC", correct: false },
+      { text: "CSK", correct: false },
       { text: "RCB", correct: true },
       { text: "GT", correct: false },
     ],
