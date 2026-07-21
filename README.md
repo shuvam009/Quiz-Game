@@ -73,26 +73,6 @@ This project helped me practice:
 
 ---
 
-## 📸 Screenshots
-
-### Start Screen
-
-> Add screenshot here
-
----
-
-### Quiz Screen
-
-> Add screenshot here
-
----
-
-### Result Screen
-
-> Add screenshot here
-
----
-
 ## 📚 What I Learned
 
 During this project, I learned how to:
