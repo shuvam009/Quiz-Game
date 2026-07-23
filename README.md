@@ -25,9 +25,9 @@ A simple and interactive Quiz Game built using **HTML, CSS, and JavaScript**. Th
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
+- HTML
+- CSS
+- JavaScript
 
 ---
 
